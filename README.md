@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá! Meu nome é Marcos Vinícius e sou estudante do Alura
+## Estou aprendendo a linguagem de programação JavaScript
 
 <!--
 **vinicius192008/vinicius192008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
